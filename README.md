@@ -31,27 +31,11 @@ keep coming back to: zero dependencies, data stays on the device, no build step.
 
 ### Kullandıklarım
 
-**Diller** — TypeScript · JavaScript · Kotlin
-**Mobil** — React Native, Expo · Jetpack Compose
-**Altyapı** — Vercel · Cloudflare · Supabase
+- **Diller** — TypeScript · JavaScript · Kotlin
+- **Mobil** — React Native, Expo · Jetpack Compose
+- **Altyapı** — Vercel · Cloudflare · Supabase
 
 ### İletişim
 
 - <https://vitrincim.com>
 - bilalinbu81@gmail.com
-## Hi there 👋
-
-<!--
-**bilalfarukozdemir/bilalfarukozdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
