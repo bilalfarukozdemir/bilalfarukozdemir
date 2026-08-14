@@ -40,3 +40,9 @@ keep coming back to: zero dependencies, data stays on the device, no build step.
 
 - <https://vitrincim.com>
 - bilalinbu81@gmail.com
+
+### Destek
+
+Buradaki her şey ücretsiz ve ücretsiz kalacak. İşine yarayan bir şey bulduysan
+[sponsor olabilirsin](https://github.com/sponsors/bilalfarukozdemir) — yıldız da
+en az onun kadar iyi.
